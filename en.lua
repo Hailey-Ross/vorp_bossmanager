@@ -8,5 +8,5 @@ Locales['en'] = {
     ['gradelbl'] = 'Grade',
     ['inputgrademsg'] = 'Enter a Rank',
     ['gradeerrormsg'] = 'Invalid Rank',
-    ['error_noclosestplayer'] = 'No one Nearby',
+    ['error_noclosestplayer'] = 'Nobody is near',
 }
